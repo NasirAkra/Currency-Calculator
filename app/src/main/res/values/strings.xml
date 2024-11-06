@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Currency Calculator</string>
+    <string name="Result">Result</string>
+    <string name="HINT">Enter Rupees</string>
+    <string name="button1">Convert into Duller</string>
+    <string name="button2">Convert into Riyal</string>
+    <string name="button3">Convert into Yuan</string>
+    <string name="button4">Convert into Pounds</string>
+    <string name="button5">Convert into Qatari Riyal</string>
+    <string name="button6">Convert into Australian Dollar</string>
+    <string name="button7">Convert into Japanese Yen</string>
+    <string name="button8">Convert into Bangladeshi Take</string>
+    <string name="button9">Convert into Euro </string>
+</resources>
