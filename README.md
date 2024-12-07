@@ -29,4 +29,4 @@ The **Currency Calculator App** allows users to easily convert one currency to a
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/CurrencyCalculatorApp.git
+   git clone https://github.com/NasirAkra/CurrencyCalculatorApp.git
